@@ -38,13 +38,13 @@ export default function HomePage() {
         <div className="text-center md:text-left max-w-xl z-10">
 
           {/* Heading */}
-          <motion.h1
+         <motion.h1
             variants={fadeUp}
             initial="hidden"
             animate="show"
-            className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-extrabold text-gray-900 leading-tight tracking-tight"
+            className="text-3xl sm:text-3xl md:text-6xl lg:text-6xl font-extrabold text-gray-900 leading-tight tracking-tight"
           >
-             🐼 Panda <br />
+            🐼 Panda <br />
             <span className="bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
              MINI DIGITAL BANKING SYSTEM
             </span>
