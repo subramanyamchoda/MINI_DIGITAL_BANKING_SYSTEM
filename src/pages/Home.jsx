@@ -44,9 +44,9 @@ export default function HomePage() {
             animate="show"
             className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-extrabold text-gray-900 leading-tight tracking-tight"
           >
-            🐼 Panda <br />
+             🐼 Panda <br />
             <span className="bg-gradient-to-r from-blue-600 to-indigo-600 bg-clip-text text-transparent">
-              Smart Banking
+             MINI DIGITAL BANKING SYSTEM
             </span>
           </motion.h1>
 
